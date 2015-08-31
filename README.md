@@ -1,14 +1,14 @@
-ÕâÊÇÒ»¸ö»ùÓÚFastAndroid¿ª·¢¿ò¼Ü(https://github.com/huntermr/FastAndroid)µÄÉç½»¿ªÔ´ÏîÄ¿¡£
+è¿™æ˜¯ä¸€ä¸ªåŸºäºŽFastAndroidå¼€å‘æ¡†æž¶çš„ç¤¾äº¤å¼€æºé¡¹ç›®ã€‚(https://github.com/huntermr/FastAndroid)
 
-QQ½»Á÷Èº:310262562 ,»¶Ó­¸÷Î»Ö¾Í¬µÀºÏµÄÐ¡»ï°é²ÎÓë¡£
+QQäº¤æµç¾¤:310262562 ,æ¬¢è¿Žå„ä½å¿—åŒé“åˆçš„å°ä¼™ä¼´å‚ä¸Žã€‚
 
 
-²ÎÓë·½Ê½£º
+å‚ä¸Žæ–¹å¼ï¼š
 
-²úÆ·Éè¼Æ¼°ÐèÇó£º¸ù¾ÝÏÖÓÐÐèÇóÎÄµµ½øÐÐ¸ÄÉÆ,¼ÓÈëºÃµÄÏë·¨¡£²¢¸ù¾ÝÐèÇóÎÄµµÉè¼ÆÔ­ÐÍÍ¼
+äº§å“è®¾è®¡åŠéœ€æ±‚ï¼šæ ¹æ®çŽ°æœ‰éœ€æ±‚æ–‡æ¡£è¿›è¡Œæ”¹å–„,åŠ å…¥å¥½çš„æƒ³æ³•ã€‚å¹¶æ ¹æ®éœ€æ±‚æ–‡æ¡£è®¾è®¡åŽŸåž‹å›¾
 
-¿Í»§¶ËUIÉè¼Æ£º¸ù¾ÝÐèÇóÎÄµµ¼°Ô­ÐÍÍ¼Éè¼Æ³ö¿Í»§¶ËµÄÐ§¹ûÍ¼
+å®¢æˆ·ç«¯UIè®¾è®¡ï¼šæ ¹æ®éœ€æ±‚æ–‡æ¡£åŠåŽŸåž‹å›¾è®¾è®¡å‡ºå®¢æˆ·ç«¯çš„æ•ˆæžœå›¾
 
-api¿ª·¢£º¸ù¾ÝÐèÇóÎÄµµ¿ª·¢³ö¿Í»§¶ËÐèÒªµÄapi½Ó¿Ú£¬²¢Éú³ÉÏàÓ¦µÄAPIÎÄµµ
+apiå¼€å‘ï¼šæ ¹æ®éœ€æ±‚æ–‡æ¡£å¼€å‘å‡ºå®¢æˆ·ç«¯éœ€è¦çš„apiæŽ¥å£ï¼Œå¹¶ç”Ÿæˆç›¸åº”çš„APIæ–‡æ¡£
 
-¿Í»§¶Ë¿ª·¢(Android)£º¸ù¾ÝÐèÇóÎÄµµ¡¢Éè¼ÆÍ¼¡¢API½Ó¿ÚÎÄµµµÈ¿ª·¢ÏàÓ¦¹¦ÄÜ
+å®¢æˆ·ç«¯å¼€å‘(Android)ï¼šæ ¹æ®éœ€æ±‚æ–‡æ¡£ã€è®¾è®¡å›¾ã€APIæŽ¥å£æ–‡æ¡£ç­‰å¼€å‘ç›¸åº”åŠŸèƒ½
